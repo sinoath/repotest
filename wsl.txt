@@ -1,0 +1,1 @@
+shared keys didnt work, hence I created a different ssh key for windows OS
